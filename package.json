@@ -1,6 +1,6 @@
 {
   "name": "jesh-divide-rn-package",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "description": "This package is used for demo purpose",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
